@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Wazuh Implementation and Log Analysis         | SOC Automation Lab|
+| Nessus Implementation and Scanning            | SOC Automation Lab|
 
 ## Tools
 
